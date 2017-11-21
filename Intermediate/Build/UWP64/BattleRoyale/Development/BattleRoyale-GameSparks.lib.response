@@ -1,0 +1,10 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/ignore:4264
+"C:\Users\Administrator\Documents\Unreal Projects\BattleRoyale\Plugins\GameSparks\Intermediate\Build\UWP64\BattleRoyale\Development\GameSparks\Module.GameSparks.cpp.obj"
+"C:\Users\Administrator\Documents\Unreal Projects\BattleRoyale\Plugins\GameSparks\Intermediate\Build\UWP64\BattleRoyale\Development\GameSparks\Module.GameSparks.gen.1_of_3.cpp.obj"
+"C:\Users\Administrator\Documents\Unreal Projects\BattleRoyale\Plugins\GameSparks\Intermediate\Build\UWP64\BattleRoyale\Development\GameSparks\Module.GameSparks.gen.2_of_3.cpp.obj"
+"C:\Users\Administrator\Documents\Unreal Projects\BattleRoyale\Plugins\GameSparks\Intermediate\Build\UWP64\BattleRoyale\Development\GameSparks\Module.GameSparks.gen.3_of_3.cpp.obj"
+/OUT:"C:\Users\Administrator\Documents\Unreal Projects\BattleRoyale\Plugins\GameSparks\Binaries\UWP64\BattleRoyale-GameSparks.lib"

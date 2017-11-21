@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-OnlineSubsystemGameSparks.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\UWP\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\Administrator\Documents\Unreal Projects\BattleRoyale\Plugins\GameSparks\Intermediate\Build\Win64\UE4Editor\Development\OnlineSubsystemGameSparks\Module.OnlineSubsystemGameSparks.cpp.obj"
+"C:\UWP\Engine\Intermediate\Build\Win64\UE4Editor\Development\PCLaunch.rc.res"
+"C:\UWP\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\Administrator\Documents\Unreal Projects\BattleRoyale\Plugins\GameSparks\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-OnlineSubsystemGameSparks.lib"
